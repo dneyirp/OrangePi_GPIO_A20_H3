@@ -101,7 +101,7 @@ setup(
     license='MIT',
     packages=['pyA20', 'pyA20.gpio'],
     description='Control GPIO, I2C and SPI',
-    long_description=open('README.txt').read() + open('CHANGES.txt').read(),
+    long_description=open('README_Olimex.txt').read() + open('CHANGES.txt').read(),
     classifiers=['Development Status :: 3 - Alpha',
                  'Environment :: Console',
                  'Intended Audience :: Developers',
